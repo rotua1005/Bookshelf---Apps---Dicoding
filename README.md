@@ -1,6 +1,6 @@
 ﻿<h1> Submission Bookshelf Apps </h1>
  
-## ScreenShoot
+## Screenshots
 ![image](https://github.com/rotua1005/Bookshelf-Apps-Dicoding/assets/129968626/14b7d564-c5b4-4e5c-823d-986d81e767fb)
 ![image](https://github.com/rotua1005/Bookshelf-Apps-Dicoding/assets/129968626/27638569-375a-4361-8db8-3e975e2452ba)
 ![image](https://github.com/rotua1005/Bookshelf-Apps-Dicoding/assets/129968626/e21548e2-2a22-4d99-9af9-1be729332a32)
